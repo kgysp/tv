@@ -1,0 +1,9 @@
+      {
+        "搜索url":"http://www.soutiyi.com/search.php?searchword={wd}",
+        "搜索链接":"href=\"&&\"",
+        "简介":"<p class=\"col-pd detail\"&&</span>",
+        "线路数组":"<imgsrc=\"/statics/icon/icon_26.png\"&&</h3>",
+        "线路标题":"坤哥专线",
+        "分类url":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+      }

@@ -1,0 +1,9 @@
+      {
+        "影片年代": "年份: &&</p>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "类型: &&</p>",
+        "主演": "主演: &&</p>",
+        "简介": "<div class=\"bottom\"&&</div>",
+        "分类url": "https://www.wandou9.com/wdshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20"
+       }
