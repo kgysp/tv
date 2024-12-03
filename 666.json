@@ -68,34 +68,34 @@
             "ext":"./荐片视频.js"
         },
         {
-            "key": "小苹果弹幕",
-            "name": "苹果弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {"danmu": true}
+            "key":"小苹果弹幕",
+            "name":"苹果弹幕",
+            "type":3,
+            "api":"csp_Xpg",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":{"danmu":true}
         },
         {
-            "key": "天天弹幕",
-            "name": "天天弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {"danmu": true}
+            "key":"天天弹幕",
+            "name":"天天弹幕",
+            "type":3,
+            "api":"csp_TianTian",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":{"danmu":true}
         },
         {
-            "key": "文财弹幕",
-            "name": "文财弹幕",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {"danmu": true}
+            "key":"文财弹幕",
+            "name":"文财弹幕",
+            "type":3,
+            "api":"csp_Jpys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":{"danmu":true}
         },
         {
             "key":"腾讯",
@@ -218,13 +218,13 @@
             "ext":"./夕云视频.json"
         },
         {
-            "key": "南瓜影视",
-            "name": "南瓜视频",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key":"南瓜影视",
+            "name":"南瓜视频",
+            "type":3,
+            "api":"csp_Nangua",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key":"果蔬",
@@ -317,10 +317,10 @@
             "ext":"./影全视频.json"
         },
         {
-            "key": "黑墙",
-            "name": "黑墙视频",
-            "type": 1,
-            "api": "https://blackwallvideo.online/api.php/provide/vod/",
+            "key":"黑墙",
+            "name":"黑墙视频",
+            "type":1,
+            "api":"https://blackwallvideo.online/api.php/provide/vod/",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -337,9 +337,9 @@
         ],
       "parses":[
         {
-            "name": "解析1",
-            "type": 3,
-            "url": "Demo"
+            "name":"解析1",
+            "type":3,
+            "url":"Demo"
         },
         {
             "name":"解析2",
@@ -363,24 +363,24 @@
         },
         {
             "name":"解析6",
-            "type": 1,
+            "type":1,
             "url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url="
         },
         {
             "name":"解析7",
-            "type": 0,
+            "type":0,
             "url":"https://www.8090g.cn/jiexi/?url="
         },
         {
             "name":"解析8",
-            "type": 1,
+            "type":1,
             "url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="
         },
         {
             "name":"解析9",
             "type":0,
             "url":"https://jx.777jiexi.com/player/?url="
-        }, 
+        },
         {
             "name":"解析10",
             "type":0,
@@ -400,7 +400,7 @@
             "name":"解析13",
             "type":0,
             "url":"https://www.playm3u8.cn/jiexi.php?url="
-        }, 
+        },
         {
             "name":"解析14",
             "type":0,
