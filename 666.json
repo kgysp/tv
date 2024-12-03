@@ -3,7 +3,7 @@
 
 
         {
-            "spider":"./666.jar",
+            "spider":"https://gitee.com/hgsp/tv/raw/box/666.jar",
             "wallpaper":"./666.png",
             "warningText":"坤哥视频：软件接口完全免费",
 
@@ -125,7 +125,7 @@
             "quickSearch":0,
             "filterable":0,
             "api":"./drpy.min.js",
-            "ext":"https://jihulab.com/kgsp/tv/raw/box/优酷视频.js"
+            "ext":"./优酷视频.js"
         },
         {
             "key":"芒果",
