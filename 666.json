@@ -338,82 +338,82 @@
         ],
       "parses":[
         {
-            "name":"解析1",
+            "name":"解析①",
             "type":3,
             "url":"Demo"
         },
         {
-            "name":"解析2",
+            "name":"解析②",
             "type":3,
             "url":"Web"
         },
         {
-            "name":"解析3",
+            "name":"解析③",
             "type":0,
             "url":"http://jx.meowtv.cn/?url="
         },
         {
-            "name":"解析4",
+            "name":"解析④",
             "type":0,
             "url":"https://jx.xmflv.com/?url="
         },
         {
-            "name":"解析5",
+            "name":"解析⑤",
             "type":0,
             "url":"https://www.yemu.xyz/?url="
         },
         {
-            "name":"解析6",
+            "name":"解析⑥",
             "type":1,
             "url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url="
         },
         {
-            "name":"解析7",
+            "name":"解析⑦",
             "type":0,
-            "url":"https://www.8090g.cn/jiexi/?url="
-        },
-        {
-            "name":"解析8",
-            "type":1,
             "url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="
         },
         {
-            "name":"解析9",
+            "name":"解析⑧",
+            "type":1,
+            "url":"https://www.mpanso.com/muou/qilin.php?url="
+        },
+        {
+            "name":"解析⑨",
             "type":0,
             "url":"https://jx.777jiexi.com/player/?url="
         },
         {
-            "name":"解析10",
+            "name":"解析⑩",
             "type":0,
             "url":"https://www.ckplayer.vip/jiexi/?url="
         },
         {
-            "name":"解析11",
+            "name":"解析⑪",
             "type":0,
             "url":"https://jx.yparse.com/index.php?url="
         },
         {
-            "name":"解析12",
+            "name":"解析⑫",
             "type":0,
             "url":"https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name":"解析13",
+            "name":"解析⑬",
             "type":0,
             "url":"https://www.playm3u8.cn/jiexi.php?url="
         },
         {
-            "name":"解析14",
+            "name":"解析⑭",
             "type":0,
             "url":"https://jiexi.555jiexi.net:555/player/?url="
         },
         {
-            "name":"解析15",
+            "name":"解析⑮",
             "type":0,
             "url":"https://jx.jsonplayer.com/player/?=&url="
         },
         {
-            "name":"解析16",
+            "name":"解析⑯",
             "type":0,
             "url":"https://www.pangujiexi.com/pangu/?url="
         }
