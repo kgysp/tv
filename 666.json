@@ -87,13 +87,14 @@
             "filterable":1
         },
         {
-            "key":"热播",
-            "name":"热播视频",
+            "key":"金牌",
+            "name":"金牌视频",
             "type":3,
-            "api":"csp_AppRB",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":1,
+            "api":"./drpy.min.js",
+            "ext":"./金牌视频.js"
         },
         {
             "key":"腾讯",
@@ -145,15 +146,6 @@
             "filterable":1
         },
         {
-            "key":"文财",
-            "name":"小米视频",
-            "type":3,
-            "api":"csp_Jpyy",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"果蔬",
             "name":"果蔬视频",
             "type":3,
@@ -164,11 +156,22 @@
             "ext":"./果蔬视频.json"
         },
         {
+            "key":"米线",
+            "name":"米线视频",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./米线视频.json"
+        },
+        {
             "key":"csp_农民",
             "name":"稻香视频",
             "type":3,
-            "playerType":2,
-            "changeable":0,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
             "api":"csp_NMYS",
             "ext":"https://www.wwgz.cn/"
         },
