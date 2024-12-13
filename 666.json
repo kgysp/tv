@@ -68,34 +68,32 @@
             "ext":"./荐片视频.js"
         },
         {
-            "key":"小苹果弹幕",
-            "name":"苹果弹幕",
+            "key":"追饭",
+            "name":"追剧视频",
             "type":3,
-            "api":"csp_Xpg",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":{"danmu":true}
+            "api":"csp_MiTo",
+            "ext":{"url":"http://xiafan.zhuiju666.com","dataKey":"aassddwwxxllsx1x","playKey":"bbssqdbbssll25sx","version":"1.1.0"}
         },
         {
-            "key":"天天弹幕",
-            "name":"天天弹幕",
+            "key":"天天",
+            "name":"天天视频",
             "type":3,
-            "api":"csp_TianTian",
+            "api":"csp_AppTT",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
-            "ext":{"danmu":true}
+            "filterable":1
         },
         {
-            "key":"文财弹幕",
-            "name":"文财弹幕",
+            "key":"热播",
+            "name":"热播视频",
             "type":3,
-            "api":"csp_Jpys",
+            "api":"csp_AppRB",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
-            "ext":{"danmu":true}
+            "filterable":1
         },
         {
             "key":"腾讯",
@@ -138,44 +136,41 @@
             "ext":"./芒果视频.js"
         },
         {
-            "key":"55",
-            "name":"俩伍视频",
+            "key":"小苹果",
+            "name":"苹果视频",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"文财",
+            "name":"小米视频",
+            "type":3,
+            "api":"csp_Jpyy",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"果蔬",
+            "name":"果蔬视频",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./俩伍视频.json"
+            "ext":"./果蔬视频.json"
         },
         {
-            "key":"88",
-            "name":"俩捌视频",
+            "key":"csp_农民",
+            "name":"稻香视频",
             "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./俩捌视频.json"
-        },
-        {
-            "key":"仨陆",
-            "name":"仨陆视频",
-            "type":3,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./仨陆视频.js"
-        },
-        {
-            "key":"幺捌",
-            "name":"幺捌视频",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./幺捌视频.json"
+            "playerType":2,
+            "changeable":0,
+            "api":"csp_NMYS",
+            "ext":"https://www.wwgz.cn/"
         },
         {
             "key":"奈飞",
@@ -218,44 +213,44 @@
             "ext":"./夕云视频.json"
         },
         {
-            "key":"南瓜",
-            "name":"南瓜视频",
+            "key":"55",
+            "name":"俩伍视频",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./俩伍视频.json"
+        },
+        {
+            "key":"88",
+            "name":"俩捌视频",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./俩捌视频.json"
+        },
+        {
+            "key":"仨陆",
+            "name":"仨陆视频",
             "type":3,
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
             "api":"./drpy.min.js",
-            "ext":"./南瓜视频.js"
+            "ext":"./仨陆视频.js"
         },
         {
-            "key":"果蔬",
-            "name":"果蔬视频",
+            "key":"幺捌",
+            "name":"幺捌视频",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./果蔬视频.json"
-        },
-        {
-            "key":"米线",
-            "name":"米线视频",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./米线视频.json"
-        },
-        {
-            "key":"豌豆",
-            "name":"豌豆视频",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./豌豆视频.json"
+            "ext":"./幺捌视频.json"
         },
         {
             "key":"影库",
