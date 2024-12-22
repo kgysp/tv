@@ -135,16 +135,6 @@
             "ext":"./芒果视频.js"
         },
         {
-            "key":"csp_农民",
-            "name":"稻香视频",
-            "type":3,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "api":"csp_NMYS",
-            "ext":"https://www.wwgz.cn/"
-        },
-        {
             "key":"小苹果",
             "name":"苹果视频",
             "type":3,
@@ -172,6 +162,16 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"./米线视频.json"
+        },
+        {
+            "key":"豌豆",
+            "name":"豌豆视频",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./豌豆视频.json"
         },
         {
             "key":"奈飞",
@@ -267,11 +267,11 @@
             "key":"星辰",
             "name":"星辰视频",
             "type":3,
-            "api":"csp_XBPQ",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./星辰视频.json"
+            "api":"./drpy.min.js",
+            "ext":"./星辰视频.js"
         },
         {
             "key":"盒子",
