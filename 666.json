@@ -67,32 +67,69 @@
             "ext":"./荐片视频.js"
         },
         {
-            "key":"热播",
-            "name":"热播视频",
-            "type":3,
-            "api":"csp_AppRB",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "key": "热播",
+            "name": "热播弹幕",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"./111.jar",
+            "ext": {"danmu": true,"site": "aHR0cDovL3YucmJvdHYuY24="}
         },
         {
-            "key":"天天",
-            "name":"天天视频",
-            "type":3,
-            "api":"csp_AppTT",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "key": "天天",
+            "name": "天天弹幕",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"./111.jar",
+            "ext": {"danmu": true,"site": "aHR0cDovL29wLnlzZHFqcy5jbg=="}
         },
         {
-            "key":"金牌",
-            "name":"金牌视频",
-            "type":3,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./金牌视频.js"
+            "key": "文才",
+            "name": "文才弹幕",
+            "type": 3,
+            "api": "csp_Jpys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"./111.jar",
+            "ext": {"danmu": true}
+        },
+        {
+            "key": "现代",
+            "name": "现代视频",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
+        },
+        {
+            "key": "优质",
+            "name": "优质视频",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
+        },
+        {
+            "key": "雨滴",
+            "name": "雨滴视频",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
+        },
+        {
+            "key": "蝴蝶",
+            "name": "海底视频",
+            "type": 3,
+            "api": "csp_Hudie",
+            "playerType": 2,
+            "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
         },
         {
             "key":"腾讯",
@@ -138,10 +175,19 @@
             "key":"小苹果",
             "name":"苹果视频",
             "type":3,
-            "api":"csp_LiteApple",
+            "api": "csp_LiteApple",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜视频",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key":"果蔬",
@@ -152,16 +198,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"./果蔬视频.json"
-        },
-        {
-            "key":"米线",
-            "name":"米线视频",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./米线视频.json"
         },
         {
             "key":"豌豆",
@@ -204,14 +240,14 @@
             "ext":"./狐狸视频.json"
         },
         {
-            "key":"夕云",
-            "name":"咸鱼视频",
+            "key":"小熊",
+            "name":"小熊视频",
             "type":3,
-            "api":"csp_XBPQ",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./夕云视频.json"
+            "api":"./drpy.min.js",
+            "ext":"./小熊视频.js"
         },
         {
             "key":"55",
@@ -254,24 +290,14 @@
             "ext":"./幺捌视频.json"
         },
         {
-            "key":"影库",
-            "name":"影库视频",
+            "key":"星辰",
+            "name":"星辰视频",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./影库视频.json"
-        },
-        {
-            "key":"星辰",
-            "name":"星辰视频",
-            "type":3,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./星辰视频.js"
+            "ext":"./星辰视频.json"
         },
         {
             "key":"盒子",
@@ -284,16 +310,6 @@
             "ext":"./盒子视频.json"
         },
         {
-            "key":"TVB云播",
-            "name":"云播视频",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./云播视频.json"
-        },
-        {
             "key":"奇趣",
             "name":"奇趣视频",
             "type":3,
@@ -302,25 +318,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"./奇趣视频.json"
-        },
-        {
-            "key":"影全",
-            "name":"影全视频",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./影全视频.json"
-        },
-        {
-            "key":"黑墙",
-            "name":"黑墙视频",
-            "type":1,
-            "api":"https://blackwallvideo.online/api.php/provide/vod/",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"本地",
