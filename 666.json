@@ -100,6 +100,16 @@
             "ext":{"danmu":true}
         },
         {
+            "key":"农民",
+            "name":"稻香视频",
+            "type":3,
+            "playerType":2,
+            "searchable":1,
+            "changeable":0,
+            "api":"csp_Wwys",
+            "ext":"https://www.wwgz.cn/"
+        },
+        {
             "key":"现代",
             "name":"现代视频",
             "type":3,
@@ -116,16 +126,8 @@
             "ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
         },
         {
-            "key":"雨滴",
-            "name":"雨滴视频",
-            "type":3,
-            "api":"csp_Xdai",
-            "playerType":1,
-            "ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
-        },
-        {
             "key":"蝴蝶",
-            "name":"海底视频",
+            "name":"蝴蝶视频",
             "type":3,
             "api":"csp_Hudie",
             "playerType":2,
