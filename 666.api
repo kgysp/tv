@@ -1,7 +1,7 @@
       {
     "urls":[
       {
-         "url":"https://gitlab.com/kgys/tv/raw/box/666.json",
+         "url":"https://gitee.com/kgysp/tv/raw/box/666.json",
          "name":"坤哥视频"
       },
       {
@@ -13,16 +13,16 @@
          "name":"坤哥肥猫"
       },
       {
-         "url":"https://hb.xyyh.online/tvbox/",
-         "name":"坤哥小虎"
+         "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/omg/main/api.json",
+         "name":"坤哥拾光"
       },
       {
          "url":"http://www.mpanso.com/小米/DEMO.json",
          "name":"坤哥小米"
       },
       {
-         "url":"http://cdn.qiaoji8.com/tvbox.json",
-         "name":"坤哥巧记"
+         "url":"http://pandown.pro/tvbox/tvbox.json",
+         "name":"坤哥巧技"
       }
       ]
       }
